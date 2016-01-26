@@ -13,7 +13,18 @@ paginate: 5
 
 
 navigation:
-
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Guest Writers
+   url: /guests
+ - title: Contribute
+   url: /contribute
+ - title: Contact
+   url: /contact
+ - title: Archive
+   url: /archive
 
 social:
    twitter: aakrblog
