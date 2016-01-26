@@ -15,7 +15,7 @@ title: About Us
 	</div>
 	<h2>More About Us</h2>
 	<ul>
-		<li><a href="/stephanie">About Stephanie</a> <a href="http://twitter.com/steph_tc">@steph_tc</a></li>
-		<li><a href="/karolina">About Karolina</a> <a href="http://twitter.com/UrbanKarolina">@UrbanKarolina</a></li>
+		<li><a href="/stephanie">About Stephanie</a></li>
+		<li><a href="/karolina">About Karolina</a></li>
 	</ul>
 </div>
