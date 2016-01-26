@@ -2,7 +2,7 @@
 layout: default
 title: AAKR | Archive
 ---
-<div id="articles">
+<div class="container" id="archive">
 <h1 class="pageTitle">Archive</h1>
   {%for post in site.posts %}
       {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}

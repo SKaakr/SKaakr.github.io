@@ -2,8 +2,7 @@
 layout: default
 title: AAKR | Contact
 ---
-
-<div id="posts">
+<div class= "container" id="contact">
   <h1 class="pageTitle">Contact Us</h1>
     <p class="intro">We're listening! Fill out the form to get in touch or tweet us at <a href="http://twitter.com/aakrblog">@aakrblog</a>.</p>
   <form action="http://formspree.io/allaboutkidsresearch@gmail.com" method="POST">
@@ -16,8 +15,6 @@ title: AAKR | Contact
     <input type="submit" value="Send" class="button">
   </form>
 
-<div class="post">
-<div style="width: 50%; float:left;">
   <h3>Contact Stephanie</h3>
   <ul>
     <li>Twitter: <a href="http://twitter.com/steph_tc">@steph_tc</a></li>
@@ -25,9 +22,7 @@ title: AAKR | Contact
     <li>Website:  <a href="http://stephaniecheung.ca">stephaniecheung.ca</a></li>
     <li>ResearchGate: <a href="https://www.researchgate.net/profile/Stephanie_Cheung4">Stephanie on ResearchGate</a></li>
   </ul>
-  </div>
 
-  <div style="width: 50%; float:right;">
   <h3>Contact Karolina</h3>
   <ul>
     <li>Twitter: <a href="http://twitter.com/UrbanKarolina">@UrbanKarolina</a></li>
@@ -35,8 +30,5 @@ title: AAKR | Contact
     <li>LinkedIn:  <a href="http://ca.linkedin.com/in/karolina-urban-15728860">Karolina on LinkedIn</a></li>
     <li>ResearchGate: <a href="http://www.researchgate.net/profile/Karolina_Urban">Karolina on ResearchGate</a></li>
   </ul>
-  </div>
-  </div>
-
 
 </div>
