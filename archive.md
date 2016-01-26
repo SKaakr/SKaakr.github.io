@@ -17,7 +17,7 @@ title: Archive
         <ul class="past">
       {% endif %}
     {% endunless %}
-      <li><time>{{ post.date | date:"%d %b" }}</time> -- <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+      <li><time>{{ post.date | date:"%d %b" }}</time> -- <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> by {{ post.author }}</li>
   {% endfor %}
   </ul>
 </section>
