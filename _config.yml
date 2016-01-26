@@ -1,7 +1,7 @@
 title: All About Kids Research
 description: sparking conversations about paediatric research
 
-url: https://skaakr.github.io/
+url: allaboutkidsresearch.ca
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
