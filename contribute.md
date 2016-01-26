@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contribute
+title: AAKR | Contribute
 ---
 
 <div id="post">
