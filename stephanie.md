@@ -16,7 +16,7 @@ title: About Stephanie
 
 <p>I am currently pursuing my PhD in Biomedical Engineering with Dr. Elaine Biddiss (PEARL Lab, Bloorview Research Institute) and Dr. Joyce Chen (PULSE Lab, Sunnybrook Research Institute). I develop and evaluate technologies to deliver music-based rehabilitation approaches in home environments and through play. Our priority is to develop evidence-based technologies and music-supported therapy strategies that have a large reach, so that many children and families will be able to benefit from our research. Like Karolina, I believe that the more we share what we do, the more we can generate discussion and learn from each other. I would not have started on my research path if someone hadn’t shared a news piece about research that fascinated me, and I hope that Karolina and I can do the same for others who visit this site.</p>
 
-<h2>Contact Stephanie</h2>
+<h3>Contact Stephanie</h3>
 <ul>
   <li>Twitter: <a href="http://twitter.com/steph_tc">@steph_tc</a></li>
   <li>Email: <a href="mailto:hello@stephaniecheung.ca">hello@stephaniecheung.ca</a></li>

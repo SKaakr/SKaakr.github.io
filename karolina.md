@@ -18,7 +18,7 @@ title: About Karolina
 <p>Currently I am pursuing my PhD in the Concussion Centre at Holland Bloorview Kids Rehab Hospital. My research project is focused on using different neuroimaging techniques to understand how concussions effect the youth brain. I hope that this knowledge will help give insight to stronger rehabilitation approaches to get kids back on the ice when they are fully recovered. At the Concussion Centre, Dr. Nick Reed and Jason Carmichael, the co-directors, are truly innovative in the approach they bring to science. Not only does the Concussion Centre conduct research, but we also provide large outreach initiatives to help educate kids and their families about concussions. This approach has really shown me the importance of sharing knowledge, creating discussions with others and how little is being doing to create this gap between research and the community. Along with Stephanie, my inspiration for this blog is to open a dialogue and learn from each other. Please feel free to contact us and start a conversation.</p>
 
 [gallery ids="69,73" type="rectangular"]
-<h2>Contact Karolina</h2>
+<h3>Contact Karolina</h3>
 <ul>
   <li>Twitter: <a href="http://twitter.com/UrbanKarolina">@UrbanKarolina</a></li>
   <li>Email: <a href="mailto:karolina.urban@mail.utoronto.ca">karolina.urban@mail.utoronto.ca</a></li>

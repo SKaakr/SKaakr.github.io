@@ -15,4 +15,28 @@ title: Contact All About Kids Research
     <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
     <input type="submit" value="Send" class="button">
   </form>
+
+<div class="container">
+<div style="width: 50%; float:left">
+  <h3>Contact Stephanie</h3>
+  <ul>
+    <li>Twitter: <a href="http://twitter.com/steph_tc">@steph_tc</a></li>
+    <li>Email: <a href="mailto:hello@stephaniecheung.ca">hello@stephaniecheung.ca</a></li>
+    <li>Website:  <a href="http://stephaniecheung.ca">stephaniecheung.ca</a></li>
+    <li>ResearchGate: <a href="https://www.researchgate.net/profile/Stephanie_Cheung4">Stephanie on ResearchGate</a></li>
+  </ul>
+  </div>
+
+  <div style="width: 50%; float:right">
+  <h3>Contact Karolina</h3>
+  <ul>
+    <li>Twitter: <a href="http://twitter.com/UrbanKarolina">@UrbanKarolina</a></li>
+    <li>Email: <a href="mailto:karolina.urban@mail.utoronto.ca">karolina.urban@mail.utoronto.ca</a></li>
+    <li>LinkedIn:  <a href="http://ca.linkedin.com/in/karolina-urban-15728860">Karolina on LinkedIn</a></li>
+    <li>ResearchGate: <a href="http://www.researchgate.net/profile/Karolina_Urban">Karolina on ResearchGate</a></li>
+  </ul>
+  </div>
+  </div>
+
+
 </div>
