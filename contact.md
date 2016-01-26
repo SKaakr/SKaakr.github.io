@@ -4,7 +4,7 @@ title: AAKR | Contact
 ---
 <div class= "container" id="contact">
   <h1 class="pageTitle">Contact Us</h1>
-    <p class="intro">We're listening! Fill out the form to get in touch or tweet us at <a href="http://twitter.com/aakrblog">@aakrblog</a>.</p>
+    <p class="intro">We want to hear from you! Fill out the form to get in touch or tweet us at <a href="http://twitter.com/aakrblog">@aakrblog</a>.</p>
   <form action="http://formspree.io/allaboutkidsresearch@gmail.com" method="POST">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
