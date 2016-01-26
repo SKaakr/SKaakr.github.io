@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact All About Kids Research
+title: AAKR | Contact
 ---
 
 <div id="posts">
@@ -16,8 +16,8 @@ title: Contact All About Kids Research
     <input type="submit" value="Send" class="button">
   </form>
 
-<div class="container">
-<div style="width: 50%; float:left">
+<div class="post">
+<div style="width: 50%; float:left;">
   <h3>Contact Stephanie</h3>
   <ul>
     <li>Twitter: <a href="http://twitter.com/steph_tc">@steph_tc</a></li>
@@ -27,7 +27,7 @@ title: Contact All About Kids Research
   </ul>
   </div>
 
-  <div style="width: 50%; float:right">
+  <div style="width: 50%; float:right;">
   <h3>Contact Karolina</h3>
   <ul>
     <li>Twitter: <a href="http://twitter.com/UrbanKarolina">@UrbanKarolina</a></li>

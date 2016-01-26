@@ -6,7 +6,7 @@ author: All About Kids Research
 ---
 
 <div class="post">
-	<p class="intro">We are here to start conversations.</p>
+	<p class="intro">Welcome to All About Kids Research.</p>
 	<p>As current PhD students at the University of Toronto, we have spoken several times about how critical it is to share new discoveries, methods, technologies, knowledge, and even just fun facts about science with the world. With focus on the pediatric healthcare world, we hope to connect researchers, clinicians, healthcare professionals, and anyone passionate about sharing their insights or knowledge with the community.
 	<p>We encourage people to spread the stories or blogs that are created here and reach out to us if you would like to contribute. Our goal is start conversations, create interest, and bring together different knowledge users.</p>
 

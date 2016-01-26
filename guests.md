@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Guest Writers
+title: AAKR | Guest Writers
 ---
 
 <div id="post">
