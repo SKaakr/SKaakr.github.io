@@ -3,11 +3,9 @@ layout: default
 title: Contact All About Kids Research
 ---
 
-<div id="contact">
+<div id="posts">
   <h1 class="pageTitle">Contact Us</h1>
-  <div class="contactContent">
-    <p class="intro">We're listening! Fill out the form to get in touch.</p>
-  </div>
+    <p class="intro">We're listening! Fill out the form to get in touch or tweet us at <a href="http://twitter.com/aakrblog">@aakrblog</a>.</p>
   <form action="http://formspree.io/allaboutkidsresearch@gmail.com" method="POST">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
