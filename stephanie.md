@@ -25,9 +25,9 @@ title: AAKR | Stephanie
 
 <h3>Contact Stephanie</h3>
 <ul>
-  <li>Twitter: <a href="http://twitter.com/steph_tc">@steph_tc</a></li>
-  <li>Email: <a href="mailto:hello@stephaniecheung.ca">hello@stephaniecheung.ca</a></li>
-  <li>Website:  <a href="http://stephaniecheung.ca">stephaniecheung.ca</a></li>
-  <li>ResearchGate: <a href="https://www.researchgate.net/profile/Stephanie_Cheung4">Stephanie Cheung on ResearchGate</a></li>
+  <li>Twitter: <a href="http://twitter.com/steph_tc" target="_blank" onclick="ga('send', 'event', 'LinkOut', 'Click', 'StephanieTwitter_from_AboutStephanie);">@steph_tc</a></li>
+  <li>Email: <a href="mailto:hello@stephaniecheung.ca" target="_blank">hello@stephaniecheung.ca</a></li>
+  <li>Website:  <a href="http://stephaniecheung.ca" target="_blank" onclick="ga('send', 'event', 'LinkOut', 'Click', 'StephanieWebsite_from_AboutStephanie');">stephaniecheung.ca</a></li>
+  <li>ResearchGate: <a href="https://www.researchgate.net/profile/Stephanie_Cheung4" target="_blank" onclick="ga('send', 'event', 'LinkOut', 'Click', 'StephanieResearchGate_from_AboutStephanie');">Stephanie on ResearchGate</a></li>
 </ul>
 </div>

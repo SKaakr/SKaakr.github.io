@@ -29,9 +29,9 @@ title: AAKR | Karolina
 
 <h3>Contact Karolina</h3>
 <ul>
-  <li>Twitter: <a href="http://twitter.com/UrbanKarolina">@UrbanKarolina</a></li>
-  <li>Email: <a href="mailto:karolina.urban@mail.utoronto.ca">karolina.urban@mail.utoronto.ca</a></li>
-  <li>LinkedIn:  <a href="http://ca.linkedin.com/in/karolina-urban-15728860">Karolina Urban on LinkedIn</a></li>
-  <li>ResearchGate: <a href="http://www.researchgate.net/profile/Karolina_Urban">Karolina Urban on ResearchGate</a></li>
+  <li>Twitter: <a href="http://twitter.com/UrbanKarolina" target="_blank" onclick="ga('send', 'event', 'LinkOut', 'Click', 'KarolinaTwitter_from_AboutKarolina');">@UrbanKarolina</a></li>
+  <li>Email: <a href="mailto:karolina.urban@mail.utoronto.ca" target="_blank">karolina.urban@mail.utoronto.ca</a></li>
+  <li>LinkedIn:  <a href="http://ca.linkedin.com/in/karolina-urban-15728860" target="_blank" onclick="ga('send', 'event', 'LinkOut', 'Click', 'KarolinaLinkedIn_from_AboutKarolina');">Karolina on LinkedIn</a></li>
+  <li>ResearchGate: <a href="http://www.researchgate.net/profile/Karolina_Urban" target="_blank" onclick="ga('send', 'event', 'LinkOut', 'Click', 'KarolinaResearchGate_from_AboutKarolina');">Karolina on ResearchGate</a></li>
 </ul>
 </div>
