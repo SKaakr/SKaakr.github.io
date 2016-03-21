@@ -39,3 +39,5 @@ This partnership is just an example of how leagues are hoping to educate their p
   * Specialized concussion training. The brain is one of the most complex systems in our body, yet there is little time allocated to teaching about the brain, diagnosis, and rehabilitation. And this applies to doctors as well, where many medical schools only cover concussions in an hour or two in 4 years and then are expected to make decisions about this. Even physiotherapists have limited education which is rather concerning as the deal with many athletes. There is a need for courses that are required if you want to be making any decisions related to concussions!
 
 <p>I know that I am excited to see the changes ahead.</p>
+
+<small>_Karolina Urban is a member of the Holland Bloorview Kids Rehab Hospital Concussion Centre, mentioned in this blog post. The opinions expressed in this blog post the author's own._</small>
