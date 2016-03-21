@@ -8,8 +8,11 @@ layout: default
       </div>
   {% endif %}
   <h1 class="postTitle">{{ page.title }}</h1>
-  <p class="meta">{{ page.date | date: '%B %d, %Y' }} by <span class="author">{{ page.author }}</span></p>
-
+  {% if page.authorlink %}
+    <p class="meta">{{ page.date | date: '%B %d, %Y' }} by <a href="http://{{ page.authorlink }}"><span class="author">{{ page.author }}</span></a></p>
+  {% else %}
+    <p class="meta">{{ page.date | date: '%B %d, %Y' }} by <span class="author">{{ page.author }}</span></p>
+  {% endif %}
   {{ content }}
 
   <!-- POST NAVIGATION -->
@@ -33,9 +36,9 @@ layout: default
 
 <div class="share-page">
     Share this on &rarr;
-    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.social.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Twitter </span></a>
-    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Facebook </span></a>
-    <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+"><span class="count"><i class="fa fa-google-plus-square"></i> Google+ </span></a>
+    <a href="http://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.social.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Twitter </span></a>
+    <a href="http://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Facebook </span></a>
+    <a href="http://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+"><span class="count"><i class="fa fa-google-plus-square"></i> Google+ </span></a>
     <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&source={{ site.url }}" rel="nofollow" target="_blank" title="Share on LinkedIn"><span class="count"><i class="fa fa-linkedin-square"></i> LinkedIn </span></a>
 
 </div>
