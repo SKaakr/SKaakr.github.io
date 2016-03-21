@@ -40,4 +40,4 @@ This partnership is just an example of how leagues are hoping to educate their p
 
 <p>I know that I am excited to see the changes ahead.</p>
 
-<small>_Karolina Urban is a member of the Holland Bloorview Kids Rehab Hospital Concussion Centre, mentioned in this blog post. The opinions expressed in this blog post the author's own._</small>
+<small>_Karolina Urban is a member of the Holland Bloorview Kids Rehab Hospital Concussion Centre, mentioned in this blog post. The opinions expressed in this blog post are the author's own._</small>
