@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Concussion: My Reflection"
+title:  "Reflecting on Concussion"
 date:   2016-3-20
 author: Karolina Urban
 authorlink: "twitter.com/urbankarolina"
