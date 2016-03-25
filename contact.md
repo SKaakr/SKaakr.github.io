@@ -5,6 +5,7 @@ title: AAKR | Contact
 <div class= "container" id="contact">
   <h1 class="pageTitle">Contact Us</h1>
     <p class="intro">Fill out the form to get in touch or tweet us at <a href="http://twitter.com/{{ site.social.twitter }}" target="_blank" onclick="ga('send', 'event', 'LinkOut', 'Click', 'AAKRTwitter_from_ContactUs');">@{{ site.social.twitter }}</a>.</p>
+
   <form action="http://formspree.io/allaboutkidsresearch@gmail.com" method="POST">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
@@ -17,7 +18,7 @@ title: AAKR | Contact
 
   <h3>Contact Stephanie</h3>
   <ul>
-    <li>Twitter: <a href="http://twitter.com/steph_tc" target="_blank" onclick="ga('send', 'event', 'LinkOut', 'Click', 'StephanieTwitter_from_ContactUs");">@steph_tc</a></li>
+    <li>Twitter: <a href="http://twitter.com/steph_tc" target="_blank" onclick="ga('send', 'event', 'LinkOut', 'Click', 'StephanieTwitter_from_ContactUs');">@steph_tc</a></li>
     <li>Email: <a href="mailto:hello@stephaniecheung.ca" target="_blank">hello@stephaniecheung.ca</a></li>
     <li>Website:  <a href="http://stephaniecheung.ca" target="_blank" onclick="ga('send', 'event', 'LinkOut', 'Click', 'StephanieWebsite_from_ContactUs');">stephaniecheung.ca</a></li>
     <li>ResearchGate: <a href="https://www.researchgate.net/profile/Stephanie_Cheung4" target="_blank" onclick="ga('send', 'event', 'LinkOut', 'Click', 'StephanieResearchGate_from_ContactUs');">Stephanie on ResearchGate</a></li>
