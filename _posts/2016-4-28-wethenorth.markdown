@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "'We' the North"
-date:   2016-4-27
+date:   2016-4-28
 author: Dr. Michael J. Ellis
 authorlink: "twitter.com/Drmichaelellis"
 ---
@@ -10,7 +10,7 @@ authorlink: "twitter.com/Drmichaelellis"
 
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-4-27-Ellis/CNCNlogo.png' | prepend: site.baseurl }}" style="display: inline-block; height:200px; margin-right:30px; auto;" alt="Canada North Concussion Network"></center>
+  <img src="{{ '/assets/img/2016-4-28-Ellis/CNCNlogo.png' | prepend: site.baseurl }}" style="display: inline-block; height:200px; margin-right:30px; auto;" alt="Canada North Concussion Network"></center>
 </figure>
 
 About my research:
@@ -48,7 +48,7 @@ I grew up in the small town of Orangeville, Ontario where everyone lived and bre
 
 <figure>
 <center>
-	<img src="{{ '/assets/img/2016-4-27-Ellis/MEllis_headshot.jpeg' | prepend: site.baseurl }}" height="300" alt="Dr. Michael J. Ellis"></a></center>
+	<img src="{{ '/assets/img/2016-4-28-Ellis/MEllis_headshot.jpeg' | prepend: site.baseurl }}" height="300" alt="Dr. Michael J. Ellis"></a></center>
 </figure>
 
 References:
