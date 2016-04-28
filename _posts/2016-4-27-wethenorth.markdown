@@ -11,7 +11,7 @@ authorlink: "twitter.com/Drmichaelellis"
 <figure>
 	<center>
   <img src="{{ '/assets/img/2016-4-27-Ellis/CNCNlogo.png' | prepend: site.baseurl }}" style="display: inline-block; height:200px; margin-right:30px; auto;" alt="Canada North Concussion Network"></center>
-</figure> 
+</figure>
 
 About my research:
 ----
