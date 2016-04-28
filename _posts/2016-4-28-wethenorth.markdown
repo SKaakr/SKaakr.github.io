@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "'We' the North"
-date:   2016-4-27
+date:   2016-4-28
 author: Dr. Michael J. Ellis
 authorlink: "twitter.com/Drmichaelellis"
 ---
@@ -10,7 +10,7 @@ authorlink: "twitter.com/Drmichaelellis"
 
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-4-27-Ellis/CNCNlogo.png' | prepend: site.baseurl }}" style="display: inline-block; height:200px; margin-right:30px; auto;" alt="Canada North Concussion Network"></center>
+  <img src="{{ '/assets/img/2016-4-28-Ellis/CNCNlogo.png' | prepend: site.baseurl }}" style="display: inline-block; height:200px; margin-right:30px; auto;" alt="Canada North Concussion Network"></center>
 </figure>
 
 About my research:
@@ -48,14 +48,13 @@ I grew up in the small town of Orangeville, Ontario where everyone lived and bre
 
 <figure>
 <center>
-	<img src="{{ '/assets/img/2016-4-27-Ellis/MEllis_headshot.jpeg' | prepend: site.baseurl }}" height="300" alt="Dr. Michael J. Ellis"></a></center>
+	<img src="{{ '/assets/img/2016-4-28-Ellis/MEllis_headshot.jpeg' | prepend: site.baseurl }}" height="300" alt="Dr. Michael J. Ellis"></a></center>
 </figure>
 
 References:
 ----
 
 <ol>
-<small>
 <small>
   <li><a name="ref1"></a>Russell K, Ritchie L, Vis S, Chu S, Selci E, McDonald PJ, Ellis M: Measuring the scientific impact of sports-related concussion research: a citation analysis study. Current Research Concussion 2: 113-121, 2016</li>
   <li><a name="ref2"></a>Ellis M, Cordingley D, Morrisette M, McDonald P, Leiter J: Retrospective review of baseline Sport Concussion Assessment Tool 3 scores in elite adolescent hockey players during a preseason physiological testing combine. Current Research Concussion 1: 15-18, 2014</li>
@@ -76,7 +75,6 @@ References:
   <li><a name="ref17"></a>McCrory P, Meeuwisse WH, Aubry M, Cantu B, Dvorak J, Echemendia RJ, et al: Consensus statement on concussion in sport: the 4th International Conference on Concussion in Sport held in Zurich, November 2012. Br J Sports Med 47:250-258, 2013</li>
   <li><a name="ref18"></a>Randolph C, McCrea M, Barr WB: Is neuropsychological testing useful in the management of sport-related concussion? J Athl Train 40:139-152, 2005</li>
   <li><a name="ref19"></a>Kirkwood M.W., Randolph C, Yeates K.O: Returning pediatric athletes to play after concussion: the evidence (or lack thereof) behind baseline neurospcyhological testing. Acta Paediatrica 98: 1409-1411, 2009</li>
-</small>
 </small>
 </ol>
 
