@@ -44,12 +44,12 @@ My main research interests include the clinical epidemiology and evidence-based 
 
 A little about myself…
 ----
-I grew up in the small town of Orangeville, Ontario where everyone lived and breathed hockey and lacrosse. My brother Dan is a 11-year veteran goaltender of the National and American Hockey Leagues. During my neurosurgery residency at the University of Toronto I originally became interested in pediatric stroke and cerebrovascular disease. However, during my final year of residency I decided to undertake a fellowship in concussion spectrum disorders with Dr. Charles Tator and pursue research examining the cerebrovascular physiology underlying pediatric concussion and TBI. I spend all of my spare time with my wife Vanessa and my one- and three-year old daughters Cooper and Cali and am a big fan of smoked BBQ, wine, and country music.
-
 <figure>
 <center>
 	<img src="{{ '/assets/img/2016-4-28-Ellis/MEllis_headshot.jpeg' | prepend: site.baseurl }}" height="300" alt="Dr. Michael J. Ellis"></a></center>
 </figure>
+
+I grew up in the small town of Orangeville, Ontario where everyone lived and breathed hockey and lacrosse. My brother Dan is a 11-year veteran goaltender of the National and American Hockey Leagues. During my neurosurgery residency at the University of Toronto I originally became interested in pediatric stroke and cerebrovascular disease. However, during my final year of residency I decided to undertake a fellowship in concussion spectrum disorders with Dr. Charles Tator and pursue research examining the cerebrovascular physiology underlying pediatric concussion and TBI. I spend all of my spare time with my wife Vanessa and my one- and three-year old daughters Cooper and Cali and am a big fan of smoked BBQ, wine, and country music.
 
 References:
 ----
