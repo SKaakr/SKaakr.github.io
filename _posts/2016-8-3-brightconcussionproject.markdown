@@ -21,7 +21,7 @@ authorlink: "twitter.com/JeffreyFDunn"
 
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-8-3-Dunn/DSC04378.JPG' | prepend: site.baseurl }}" style="display: inline-block; max-width:80%; height:auto; margin-right:30px; auto;" alt="Robert Dunn at Fernie NorAm Skicross race, 2015. Credit: Kevin Wheeler"></center>
+  <img src="{{ '/assets/img/2016-8-3-Dunn/DSC04378.JPG' | prepend: site.baseurl }}" style="display: inline-block; max-width:60%; height:auto; margin-right:30px; auto;" alt="Robert Dunn at Fernie NorAm Skicross race, 2015. Credit: Kevin Wheeler"></center>
 		<figcaption>Robert Dunn at Fernie NorAm Skicross race, 2015. Credit: Kevin Wheeler.</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ At the time, I was working on applying a new imaging method called functional ne
 
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-8-3-Dunn/refmsNIRS.JPG' | prepend: site.baseurl }}" style="display: inline-block; height:100px; margin-right:30px; auto;" alt=""></center>
+  <img src="{{ '/assets/img/2016-8-3-Dunn/refmsNIRS.JPG' | prepend: site.baseurl }}" style="display: inline-block; max-width:100%; height:auto; margin-right:30px; auto;" alt=""></center>
 </figure>
 
 
@@ -55,7 +55,7 @@ I then got a call which had a lasting impact on my research program. Dr. Jong Rh
 
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-8-3-Dunn/dunnpodcasts.png' | prepend: site.baseurl }}" style="display: inline-block; height:300px; margin-right:30px; auto;" alt=""></center>
+  <img src="{{ '/assets/img/2016-8-3-Dunn/dunnpodcasts.png' | prepend: site.baseurl }}" style="display: inline-block; max-width:40%; height:auto; margin-right:30px; auto;" alt=""></center>
 </figure>
 
 
@@ -65,7 +65,7 @@ Fast forward a few years. Karolina’s MSc was successful. She showed, in a smal
 
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-8-3-Dunn/dunnteam.png' | prepend: site.baseurl }}" style="display: inline-block; height:300px; margin-right:30px; auto;" alt="Duczynski and Dr. Hocke from the Dunn lab and Experimental Imaging Centre. Photo credit: Jeff Dunn"></center>
+  <img src="{{ '/assets/img/2016-8-3-Dunn/dunnteam.png' | prepend: site.baseurl }}" style="display: inline-block; max-width:60%; height:auto; margin-right:30px; auto;" alt="Duczynski and Dr. Hocke from the Dunn lab and Experimental Imaging Centre. Photo credit: Jeff Dunn"></center>
 	<figcaption>Duczynski and Dr. Hocke from the Dunn lab and Experimental Imaging Centre. Photo credit: Jeff Dunn</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ And we are off—working on a project to develop a portable, safe, sensitive met
 
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-8-3-Dunn/skiing.png' | prepend: site.baseurl }}" style="display: inline-block; height:300px; margin-right:30px; auto;" alt="Dr. Dunn ‘cruising’ down the hill, one of his favourite pass times near Calgary, Alberta. Credit: Moire Dunn"></center>
+  <img src="{{ '/assets/img/2016-8-3-Dunn/skiing.png' | prepend: site.baseurl }}" style="display: inline-block; max-width:60%; height:auto; margin-right:30px; auto;" alt="Dr. Dunn ‘cruising’ down the hill, one of his favourite pass times near Calgary, Alberta. Credit: Moire Dunn"></center>
 	<figcaption>Dr. Dunn ‘cruising’ down the hill, one of his favourite pass times near Calgary, Alberta. Credit: Moire Dunn</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ About Dr. Jeffrey Dunn:
 ----
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-8-3-Dunn/drdunn.png' | prepend: site.baseurl }}" style="display: inline-block; height:300px; margin-right:30px; auto;" alt="Dr. Jeffrey Dunn"></center>
+  <img src="{{ '/assets/img/2016-8-3-Dunn/drdunn.png' | prepend: site.baseurl }}" style="display: inline-block; max-width:20%; height:auto; margin-right:30px; auto;" alt="Dr. Jeffrey Dunn"></center>
 	<figcaption>Credit: Adrian Shellard, c/o Cumming School of Medicine</figcaption>
 </figure>
 
