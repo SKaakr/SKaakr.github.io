@@ -9,11 +9,7 @@ authorlink: "twitter.com/JeffreyFDunn"
 
 <figure>
 	<center>
-<<<<<<< HEAD
-  <img src="{{ '/assets/img/2016-8-3-Dunn/title.JPG' | prepend: site.baseurl }}" style="display: inline-block; height:250px; margin-right:30px; auto;" alt="The Story of a 'Bright' Concussion Imaging Project"></center>
-=======
   <img src="{{ '/assets/img/2016-8-3-Dunn/title.JPG' | prepend: site.baseurl }}" style="display: inline-block; max-width:100%; height:auto; margin-right:30px; auto;" alt="The Story of a 'Bright' Concussion Imaging Project"></center>
->>>>>>> refs/remotes/origin/drafts
 </figure>
 
 
@@ -51,7 +47,7 @@ So that was the situation as I was pondering how to improve imaging of concussio
 
 <em>So here is what I was thinking.</em> If shaking the brain damages the linkages between brain regions, then this might be a new method to detect and monitor concussion. I worked out that I could get some good pilot data for less than 50K-the amount needed to hire a MSc student for 2 years, to purchase some supplies and to send the student to one meeting to convey our results. I applied for funding—and got turned down. Hmm. Not abnormal. <em>To all those scientists out there--you are not a bad scientist just because your grant wasn’t funded. Say that again, this time with feeling!</em>
 
-I then got a call which had a lasting impact on my research program. Dr. Jong Rho had read the proposal. He worked at the [Alberta Children’s Hospital](http://research4kids.ucalgary.ca/) in Calgary. He let me know that he liked the idea even though it wasn’t funded. He helped me obtain the needed money. Good story eh <i class="em em-smiley"></i>. 
+I then got a call which had a lasting impact on my research program. Dr. Jong Rho had read the proposal. He worked at the [Alberta Children’s Hospital](http://research4kids.ucalgary.ca/) in Calgary. He let me know that he liked the idea even though it wasn’t funded. He helped me obtain the needed money. Good story eh <i class="em em-smiley"></i>.
 
 <figure>
 	<center>
