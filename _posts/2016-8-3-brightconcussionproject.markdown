@@ -9,7 +9,11 @@ authorlink: "twitter.com/JeffreyFDunn"
 
 <figure>
 	<center>
+<<<<<<< HEAD
   <img src="{{ '/assets/img/2016-8-3-Dunn/title.JPG' | prepend: site.baseurl }}" style="display: inline-block; max-width:100%; height:auto; margin-right:30px; auto;" alt="The Story of a 'Bright' Concussion Imaging Project"></center>
+=======
+  <img src="{{ '/assets/img/2016-8-3-Dunn/title.JPG' | prepend: site.baseurl }}" style="display: inline-block; max-width:100%; height:auto; margin-right:30px; auto;" alt="The Story of a 'Bright' Concussion Imaging Projects"></center>
+>>>>>>> drafts
 </figure>
 
 
@@ -17,8 +21,8 @@ authorlink: "twitter.com/JeffreyFDunn"
 
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-8-3-Dunn/DSC04378.JPG' | prepend: site.baseurl }}" style="display: inline-block; max-width:60%; height:auto; margin-right:30px; auto;" alt="Robert Dunn at Fernie NorAm Skicross race, 2015. Credit: Kevin Wheeler"></center>
-		<figcaption>Robert Dunn at Fernie NorAm Skicross race, 2015. Credit: Kevin Wheeler.</figcaption>
+  <img src="{{ '/assets/img/2016-8-3-Dunn/DSC04378.jpg' | prepend: site.baseurl }}" style="display: inline-block; max-width:60%; height:auto; margin-right:30px; auto;" alt="Robert Dunn at Fernie NorAm Skicross race, 2015. Credit: Kevin Wheeler">
+		<figcaption>Robert Dunn at Fernie NorAm Skicross race, 2015. Credit: Kevin Wheeler.</figcaption></center>
 </figure>
 
 
@@ -29,7 +33,7 @@ At the time, I was working on applying a new imaging method called functional ne
 
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-8-3-Dunn/refmsNIRS.JPG' | prepend: site.baseurl }}" style="display: inline-block; max-width:100%; height:auto; margin-right:30px; auto;" alt=""></center>
+  <img src="{{ '/assets/img/2016-8-3-Dunn/refmsNIRS.jpg' | prepend: site.baseurl }}" style="display: inline-block; max-width:100%; height:auto; margin-right:30px; auto;" alt=""></center>
 </figure>
 
 
@@ -61,8 +65,8 @@ Fast forward a few years. Karolina’s MSc was successful. She showed, in a smal
 
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-8-3-Dunn/dunnteam.png' | prepend: site.baseurl }}" style="display: inline-block; max-width:60%; height:auto; margin-right:30px; auto;" alt="Duczynski and Dr. Hocke from the Dunn lab and Experimental Imaging Centre. Photo credit: Jeff Dunn"></center>
-	<figcaption>Duczynski and Dr. Hocke from the Dunn lab and Experimental Imaging Centre. Photo credit: Jeff Dunn</figcaption>
+  <img src="{{ '/assets/img/2016-8-3-Dunn/dunnteam.png' | prepend: site.baseurl }}" style="display: inline-block; max-width:60%; height:auto; margin-right:30px; auto;" alt="Duczynski and Dr. Hocke from the Dunn lab and Experimental Imaging Centre. Photo credit: Jeff Dunn">
+	<figcaption>Duczynski and Dr. Hocke from the Dunn lab and Experimental Imaging Centre. Photo credit: Jeff Dunn</figcaption></center>
 </figure>
 
 
@@ -73,8 +77,8 @@ And we are off—working on a project to develop a portable, safe, sensitive met
 
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-8-3-Dunn/skiing.png' | prepend: site.baseurl }}" style="display: inline-block; max-width:60%; height:auto; margin-right:30px; auto;" alt="Dr. Dunn ‘cruising’ down the hill, one of his favourite pass times near Calgary, Alberta. Credit: Moire Dunn"></center>
-	<figcaption>Dr. Dunn ‘cruising’ down the hill, one of his favourite pass times near Calgary, Alberta. Credit: Moire Dunn</figcaption>
+  <img src="{{ '/assets/img/2016-8-3-Dunn/skiing.png' | prepend: site.baseurl }}" style="display: inline-block; max-width:60%; height:auto; margin-right:30px; auto;" alt="Dr. Dunn ‘cruising’ down the hill, one of his favourite pass times near Calgary, Alberta. Credit: Moire Dunn">
+	<figcaption>Dr. Dunn ‘cruising’ down the hill, one of his favourite pass times near Calgary, Alberta. Credit: Moire Dunn</figcaption></center>
 </figure>
 
 
@@ -84,8 +88,8 @@ About Dr. Jeffrey Dunn:
 ----
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-8-3-Dunn/drdunn.png' | prepend: site.baseurl }}" style="display: inline-block; max-width:20%; height:auto; margin-right:30px; auto;" alt="Dr. Jeffrey Dunn"></center>
-	<figcaption>Credit: Adrian Shellard, c/o Cumming School of Medicine</figcaption>
+  <img src="{{ '/assets/img/2016-8-3-Dunn/drdunn.png' | prepend: site.baseurl }}" style="display: inline-block; max-width:20%; height:auto; margin-right:30px; auto;" alt="Dr. Jeffrey Dunn">
+	<figcaption>Credit: Adrian Shellard, c/o Cumming School of Medicine</figcaption></center>
 </figure>
 
 Dr. Jeff Dunn is a Professor in the Department of Radiology, with adjunct positions in the Departments of Physiology and Pharmacology and the Dept. of Clinical Neuroscience. He was recruited from Dartmouth Medical School in 2004. He is a member of graduate programs in Neuroscience, Mountain Medicine and High altitude physiology, Medical Science (including musculoskeletal imaging) and Biomedical Engineering. He works on imaging development (MRI, near-infrared spectroscopy) and focuses on how hypoxia impacts disease progression (Multiple sclerosis, stroke, traumatic brain injury, brain cancer). The lab also undertakes high resolution MR microscopy.
