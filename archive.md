@@ -14,5 +14,4 @@ title: AAKR | Archive
       {% endif %}
       <li><time>{{ post.date | date:"%d %b" }}</time> -- <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> by {{ post.author }}</li>
   {% endfor %}
-  </ul>
 </div>
