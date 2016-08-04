@@ -6,9 +6,18 @@ author: Dr. Jeffrey F. Dunn
 authorlink: "twitter.com/JeffreyFDunn"
 ---
 <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+
 <figure>
 	<center>
+<<<<<<< HEAD
   <img src="{{ '/assets/img/2016-8-3-Dunn/title.jpg' | prepend: site.baseurl }}" style="display: inline-block; max-width:100%; height:auto; margin-right:30px; auto;" alt="The Story of a 'Bright' Concussion Imaging Project"></center>
+=======
+<<<<<<< HEAD
+  <img src="{{ '/assets/img/2016-8-3-Dunn/title.JPG' | prepend: site.baseurl }}" style="display: inline-block; height:250px; margin-right:30px; auto;" alt="The Story of a 'Bright' Concussion Imaging Project"></center>
+=======
+  <img src="{{ '/assets/img/2016-8-3-Dunn/title.JPG' | prepend: site.baseurl }}" style="display: inline-block; max-width:100%; height:auto; margin-right:30px; auto;" alt="The Story of a 'Bright' Concussion Imaging Project"></center>
+>>>>>>> refs/remotes/origin/drafts
+>>>>>>> refs/remotes/origin/master
 </figure>
 
 
