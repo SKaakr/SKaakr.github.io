@@ -29,7 +29,7 @@ At the time, I was working on applying a new imaging method called functional ne
 
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-8-3-Dunn/refmsNIRS.JPG' | prepend: site.baseurl }}" style="display: inline-block; max-width:100%; height:auto; margin-right:30px; auto;" alt=""></center>
+  <img src="{{ '/assets/img/2016-8-3-Dunn/refmsNIRS.jpg' | prepend: site.baseurl }}" style="display: inline-block; max-width:100%; height:auto; margin-right:30px; auto;" alt=""></center>
 </figure>
 
 
