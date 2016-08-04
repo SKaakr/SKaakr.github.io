@@ -10,8 +10,8 @@ authorlink: "http://www.northeastern.edu/regamevrlab/"
 
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-3-28-Levac/regamelab.png' | prepend: site.baseurl }}" style="display: inline-block; height:200px; margin-right:30px; auto;" alt="ReGame Laboratory">
-  <img src="{{ '/assets/img/2016-3-28-Levac/northeastern.jpg' | prepend: site.baseurl }}" style="display: inline-block; height:200px; margin-left:auto;" alt="Northeastern University"></center>
+  <img src="{{ '/assets/img/2016-3-28-Levac/regamelab.png' | prepend: site.baseurl }}" style="display: inline-block; max-width:50%; height:auto; margin-right:30px; auto;" alt="ReGame Laboratory">
+  <img src="{{ '/assets/img/2016-3-28-Levac/northeastern.jpg' | prepend: site.baseurl }}" style="display: inline-block; max-width:20%; height:auto; margin-left:auto;" alt="Northeastern University"></center>
 </figure>
 
 About my research:
@@ -25,8 +25,8 @@ More recent markerless motion-capture systems, such as the [Microsoft Kinect](ht
 Much of the excitement about VR and AVG use in rehabilitation relates to 2 things: 1) The potential for gaming to increase motivation and engagement, which is thought to encourage adherence to the substantial practice dosage and repetitions required to elicit functional change; and 2): the potential for VR and AVGs to promote motor learning, since these systems – to varying degrees – take advantage of attributes of motor learning principles, such as feedback, repetitive practice, ability to individualize challenge levels and enriched environments, which further solidify their theoretical appeal.
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-3-28-Levac/image5.jpg' | prepend: site.baseurl }}" style="display: inline-block; height:200px; margin-right:auto;" alt="Photo credit: Northeastern University">
-  <img src="{{ '/assets/img/2016-3-28-Levac/image6.jpg' | prepend: site.baseurl }}" style="display: inline-block; height:200px; margin-left:auto;" alt="Photo credit: Northeastern University"></center>
+  <img src="{{ '/assets/img/2016-3-28-Levac/image5.jpg' | prepend: site.baseurl }}" style="display: inline-block; max-width:40%; height:auto; margin-right:auto;" alt="Photo credit: Northeastern University">
+  <img src="{{ '/assets/img/2016-3-28-Levac/image6.jpg' | prepend: site.baseurl }}" style="display: inline-block; max-width:40%; height:auto; margin-left:auto;" alt="Photo credit: Northeastern University"></center>
   <figcaption>Photo credit: Northeastern University ReGame-VR Lab</figcaption>
 </figure>
 
@@ -43,15 +43,19 @@ My research program seeks to contribute answers to these questions, in laborator
 
 * Developing knowledge translation resources based on learning needs: Physical and occupational therapists need support in the form of knowledge translation learning resources to develop their skills in using VR.  In collaboration with [Stephanie Glegg](http://www.researchgate.net/profile/Stephanie_Glegg) at [Sunny Hill Health Center for Children](http://www.bcchildrens.ca/our-services/sunny-hill-health-centre/about) in Vancouver, BC, we are building on my postdoctoral research project funded by the Ontario Stroke Network to develop and to evaluate online KT resources to meet this need. We have just completed an online survey of Canadian clinicians’ VR experience and learning needs related to integrating VR into practice and will shortly begin recruitment in the US and internationally.  Survey findings will inform KT resource content to be housed on [www.vr4rehab.com](http://www.vr4rehab.com/). This site will soon be home to a range of online resources (including  [www.kinectingwithclinicians.com](http://kinectingwithclinicians.com/welcome/), a Kinect-specific resource under development with Dr. Judy Deutsch (Rutgers University), Dr. Emily Fox (University of Florida), Dr. Sujata Pradhan (University of Washington), and Dr. Debbie Espy (Cleveland State University) to assist clinicians in keeping current with emerging research evidence on VR for rehabilitation, in developing new knowledge and skills in applying VR to practice, and in accessing networking and learning opportunities in the field. Ultimately, accessible evidence-based resources will support effective integration of VR and video gaming systems in a variety of practice settings.
 <figure>
+	<center>
   <a href="http://www.vr4rehab.com/">
-	<img src="{{ '/assets/img/2016-3-28-Levac/image1.png' | prepend: site.baseurl }}" height="200" alt="VR4Rehab"></a>
+	<img src="{{ '/assets/img/2016-3-28-Levac/image1.png' | prepend: site.baseurl }}" style="display: inline-block; max-width:40%; height:auto; margin-left:auto;" alt="VR4Rehab"></a>
 	<figcaption>VR4Rehab is an online resource for clinicians</figcaption>
+	</center>
 </figure>
 
 * Evaluating whether a 1-week VR-based therapy ‘jump-start’ can enhance the effects of a home Kinect AVG-based exercise program in children and youth with cerebral palsy (funded by the [Ontario Federation for Cerebral Palsy](http://www.ofcp.ca/) and the [Ottawa Children’s Treatment Center](http://www.octc.ca/))
 <figure>
-	<img src="{{ '/assets/img/2016-3-28-Levac/image2.png' | prepend: site.baseurl }}" height="100" alt="jump-start">
+	<center>
+	<img src="{{ '/assets/img/2016-3-28-Levac/image2.png' | prepend: site.baseurl }}" style="display: inline-block; max-width:40%; height:auto; margin-left:auto;"  alt="jump-start">
 	<figcaption>Can 'jump-start' enhance effects of a home Kinect-based exercise program?</figcaption>
+	</center>
 </figure>
 
 * Developing and evaluating the psychometric properties of a rating form to document the movements elicited during VR and AVG game play
@@ -61,9 +65,10 @@ My research program seeks to contribute answers to these questions, in laborator
 
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-3-28-Levac/image3.jpg' | prepend: site.baseurl }}" style="display: inline-block; height:200px; margin-right:auto;" alt="Photo credit: Northeastern University">
-  <img src="{{ '/assets/img/2016-3-28-Levac/image4.jpg' | prepend: site.baseurl }}" style="display: inline-block; height:200px; margin-left:auto;" alt="Photo credit: Northeastern University"></center>
+  <img src="{{ '/assets/img/2016-3-28-Levac/image3.jpg' | prepend: site.baseurl }}" style="display: inline-block; max-width:30%; height:auto; margin-right:auto;" alt="Photo credit: Northeastern University">
+  <img src="{{ '/assets/img/2016-3-28-Levac/image4.jpg' | prepend: site.baseurl }}" style="display: inline-block; max-width:45%; height:auto; margin-left:auto;" alt="Photo credit: Northeastern University"></center>
   <figcaption>Photo credit: Northeastern University ReGame-VR Lab</figcaption>
+	</center>
 </figure>
 
 About me:
@@ -71,8 +76,10 @@ About me:
 I graduated from the University of Ottawa’s physiotherapy program in 2001 and worked clinically as a physiotherapist in pediatric acute care, rehabilitation and school health support. This clinical experience led me to an MSc in the [School of Rehabilitation Science at McMaster University in Hamilton](http://srs-mcmaster.ca/staff/cheryl-missiuna/), where I explored variability in recovery patterns after pediatric acquired brain injury. I knew I wanted to continue my research journey, and immediately began a PhD, under the exceptional guidance of [Dr. Cheryl Missiuna](http://srs-mcmaster.ca/staff/cheryl-missiuna/) and my committee of [Dr. Virginia Wright](http://www.youtube.com/watch?v=OaF5j3YbUJk), Dr. Laurie Wishart and [Carol DeMatteo](http://srs-mcmaster.ca/staff/carol-dematteo/). This PhD work was based in my clinical interest in the use of virtual reality and active video games in rehabilitation.  My PhD focused on use of the Nintendo Wii in pediatric ABI rehabilitation, and in particular, on how clinicians could use motor learning strategies during VR-based interventions, and how this compared to use of motor learning strategies during ‘usual’ care.  I was very fortunate to be supported during my doctoral studies at McMaster by the [Canadian Child Health Clinician Scientist Program](http://cchcsp.ca/), the [CanChild Center for Childhod Disability](http://www.canchild.ca/) and the [McMaster Child Health Research Institute](http://www.research.mcmaster.ca/research-chairs-and-institutes/mchri). Following my PhD, I undertook a postdoctoral fellowship in the Motor Control Laboratory at the University of Ottawa under the supervision of [Dr. Heidi Sveistrup](http://research.uottawa.ca/people/sveistrup-heidi) and [Dr. Mindy Levin](http://www.mcgill.ca/spot/mindy-levin), where I continued exploring VR and active video games from a motor learning perspective. I’m now happily building my research program in Boston, MA, where my family and I are enjoying exploring everything that the area has to offer. And yes, my kids and I are gamers!
 
 <figure>
-	<img src="{{ '/assets/img/2016-3-28-Levac/image7.jpg' | prepend: site.baseurl }}" height="200" alt="Photo credit: D. Levac"></a>
+	<center>
+	<img src="{{ '/assets/img/2016-3-28-Levac/image7.jpg' | prepend: site.baseurl }}" style="display: inline-block; max-width:45%; height:auto; margin-left:auto;" alt="Photo credit: D. Levac"></a>
 	<figcaption>Photo credit: D. Levac</figcaption>
+	</center>
 </figure>
 
 
