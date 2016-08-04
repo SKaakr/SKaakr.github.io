@@ -9,7 +9,7 @@ authorlink: "twitter.com/JeffreyFDunn"
 
 <figure>
 	<center>
-  <img src="{{ '/assets/img/2016-8-3-Dunn/title.JPG' | prepend: site.baseurl }}" style="display: inline-block; max-width:100%; height:auto; margin-right:30px; auto;" alt="The Story of a 'Bright' Concussion Imaging Projects"></center>
+  <img src="{{ '/assets/img/2016-8-3-Dunn/title.jpg' | prepend: site.baseurl }}" style="display: inline-block; max-width:100%; height:auto; margin-right:30px; auto;" alt="The Story of a 'Bright' Concussion Imaging Project"></center>
 </figure>
 
 
