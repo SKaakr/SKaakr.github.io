@@ -77,7 +77,7 @@ I graduated from the University of Ottawa’s physiotherapy program in 2001 and 
 
 <figure>
 	<center>
-	<img src="{{ '/assets/img/2016-3-28-Levac/image7.jpg' | prepend: site.baseurl }}" style="display: inline-block; max-width:45%; height:auto; margin-left:auto;" alt="Photo credit: D. Levac"></a>
+	<img src="{{ '/assets/img/2016-3-28-Levac/image7.jpg' | prepend: site.baseurl }}" style="display: inline-block; max-width:45%; height:auto; margin-left:auto;" alt="Photo credit: D. Levac">
 	<figcaption>Photo credit: D. Levac</figcaption>
 	</center>
 </figure>
