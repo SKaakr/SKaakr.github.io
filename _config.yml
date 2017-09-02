@@ -1,8 +1,8 @@
 title: All About Kids Research
 description: Sparking conversations about paediatric research. A project by Stephanie Cheung and Karolina Urban.
 
-url: http://allaboutkidsresearch.ca
-baseurl: ""
+url: http://stephaniecheung.ca/allaboutkidsresearch
+baseurl: "http://stephaniecheung.ca/allaboutkidsresearch"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
